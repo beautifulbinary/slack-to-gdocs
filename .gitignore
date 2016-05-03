@@ -60,3 +60,8 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#User:
+
+#mac stuff
+.DS_Store
